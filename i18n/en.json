@@ -137,7 +137,7 @@
   "robohash_monster": "Get your personal monster",
   "robohash_robot": "Get your personal robot",
   "robohash_robothead": "Get your personal robot head",
-  "roll": "Rolls the dice a number of times with a number of sides, see **`!random`** for advanced generators",
+  "roll": "Rolls a die a number of times with a number of sides, see **`!random`** for advanced generators",
   "serverinfo": "Gives information about this server, unless a servername is specified",
   "serverlist": "Lists all the servers the bot is connected to",
   "servers": "Lists how many servers, channels and users the bot is connected to",
